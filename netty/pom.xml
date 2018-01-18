@@ -10,4 +10,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>netty</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.msgpack</groupId>
+            <artifactId>msgpack</artifactId>
+        </dependency>
+    </dependencies>
 </project>
